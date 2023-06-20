@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ""
-subtitle: ""
-author: ""
+title: "究极神兵绝境战"
+subtitle: "神兵自用攻略"
+author: "伞伞"
 header-style: text
 tags:
   - 绝本
