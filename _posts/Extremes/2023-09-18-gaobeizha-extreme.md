@@ -11,13 +11,13 @@ tags:
 ### 时间轴, 标点， 和站位
 
 时间轴
-![](https://imgur.com/a/Kkm60NW)
+![](https://imgur.com/8G1kTC0.png)
 
 场地标点
-![](https://imgur.com/HaZ87BW)
+![](https://imgur.com/HaZ87BW.png)
 
 站位分组
-![](https://imgur.com/j6hqHhO)
+![](https://imgur.com/j6hqHhO.png)
 
 ~~~~~~
 宏
@@ -57,11 +57,11 @@ tags:
 1. 开局月龙剑，黑雾在周围是钢铁，扩散是月环。（每次储存技能接换t死刑）（是储存无效果）
 2. 黑龙炎三连死刑换t，三次buff必死。2仇可以在1st或者2nd的时候挑衅，然后结束后再退避给mt。（骑士保护可用）无敌无用
 3. 弦月黑龙连剑，前后刀+释放之前储存的钢铁,分摊/月环,分散。（两种处理方法，面基或者场基）。 （先钢铁月环再分摊分散）
-![](https://imgur.com/whXmp0O)
+![](https://imgur.com/whXmp0O.png)
 4. 核爆踩塔看图
-![](https://imgur.com/OMgoEzB)
+![](https://imgur.com/OMgoEzB.png)
 
-![](https://imgur.com/72J43kk)
+![](https://imgur.com/72J43kk.png)
 
 击退结束后，场中奶往c点走 引导直条aoe。其他人从角落靠近boss。
 总结一下就是dps在北侧预站位，无点名进北侧塔，核爆去没塔的。tn在南预站位，击退奶在场中随后去南引导直条aoe，其他和dps差不多。
@@ -69,7 +69,7 @@ tags:
 ### P3
 1. 开局月龙剑，储存+ 黑龙炎三连死刑换t。
 2. 地火。mt组st组左右半场。先在8号地火等待，然后等1号结束穿过去。分组大概是这样：
-![](https://imgur.com/EbJhBOQ)
+![](https://imgur.com/EbJhBOQ.png)
 3. 地火结束后紧跟集束黑龙闪（44分摊）/三连黑龙闪（扇形打双t北，双奶东西，dps南）。
 4. 双t5段死刑，1仇在A，2仇在B。
 5. 弦月黑龙连剑，前后刀+释放之前储存的钢铁,分摊/月环,分散。
@@ -77,7 +77,7 @@ tags:
 
 ### P4
 1. 强化四风+前后刀+aoe 看图：
-![](https://imgur.com/8f5MFu8)
+![](https://imgur.com/8f5MFu8.png)
 
 ### P5
 
